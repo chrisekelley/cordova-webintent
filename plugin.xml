@@ -8,8 +8,8 @@
     <license>Apache</license>
     <keywords>cordova,webintent</keywords>
 
-    <js-module src="www/webintent.js" name="WebIntent">
-        <clobbers target="WebIntent" />
+    <js-module src="www/plugin.js" name="WebIntentPlugin">
+        <clobbers target="WebIntentPlugin" />
     </js-module>
 
     <!-- android -->
